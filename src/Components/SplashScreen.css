@@ -1,0 +1,11 @@
+/* Splash screen */
+.splash-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #16a34a; /* Green background */
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+}
